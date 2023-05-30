@@ -1,0 +1,17 @@
+Bug List:
+Title: UI Bug
+Description: The button color is incorrect.
+Status: Open
+
+Title: Null Pointer Exception
+Description: The application crashes when performing action X.
+Status: Open
+
+Bug List:
+Title: UI Bug
+Description: The button color is incorrect.
+Status: In Progress
+
+Title: Null Pointer Exception
+Description: The application crashes when performing action X.
+Status: Open
